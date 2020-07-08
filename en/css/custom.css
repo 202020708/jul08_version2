@@ -233,14 +233,14 @@ a:focus {
 
 @media (max-width: 991px) {
   .masthead .masthead-heading {
-    font-size: 1.4rem;
+    font-size: 0.9rem;
     line-height: 2.75rem;
   }
 }
 
 @media (max-width: 414px) {
   .masthead .masthead-heading {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     line-height: 2.75rem;
   }
   .s1container h2 {
