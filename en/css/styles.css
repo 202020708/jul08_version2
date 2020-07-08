@@ -7682,7 +7682,7 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 .ml-4,
@@ -9718,7 +9718,7 @@ a.text-dark:focus {
 }
 
 .divider-custom {
-  margin: 1.25rem 0 1.5rem;
+  /*margin: 1.25rem 0 1.5rem;*/
   width: 100%;
   display: flex;
   justify-content: center;
