@@ -236,6 +236,14 @@ a:focus {
     font-size: 0.9rem;
     line-height: 2.75rem;
   }
+
+  .s1cardcontainer .s1card {
+    position: relative;
+    border-radius: 10px;
+    margin: -50px auto;
+    padding: 0 20px;
+  }
+
 }
 
 @media (max-width: 414px) {
@@ -256,6 +264,13 @@ a:focus {
   .page-section .page-section-heading {
     font-size: 0.9rem;
     line-height: 2.75rem;
+  }
+
+  .s1cardcontainer .s1card {
+    position: relative;
+    border-radius: 10px;
+    margin: -50px auto;
+    padding: 0 20px;
   }
 }
 
